@@ -1,7 +1,8 @@
 ## Hi there 👋
 ![header](https://capsule-render.vercel.app/api?type=wave&color=auto&height=300&section=header)
 ![footer](https://capsule-render.vercel.app/api?type=wave&color=auto&height=300&section=footer)
-
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ssb7779)](https://github.com/anuraghazra/github-readme-stats)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=ssb7779&show_icons=true&theme=black)
 <!--
 **ssb7779/ssb7779** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
